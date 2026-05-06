@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+bot.log
+chat_ids.json
+backtest_cache.json
+.env

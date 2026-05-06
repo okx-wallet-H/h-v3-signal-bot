@@ -1,0 +1,842 @@
+[
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.0,
+      "tp1_atr_mult": 2.0,
+      "max_hold_bars": 30,
+      "trend_filter": false
+    },
+    "details": {
+      "BTC": {
+        "trades": 11,
+        "win_rate": 0.636,
+        "pf": 1.51,
+        "return": 3.21,
+        "mdd": 2.67,
+        "sharpe": 2.71,
+        "avg_hold": 9.9
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.667,
+        "pf": 1.94,
+        "return": 5.88,
+        "mdd": 2.94,
+        "sharpe": 4.14,
+        "avg_hold": 12.0
+      },
+      "SOL": {
+        "trades": 9,
+        "win_rate": 0.667,
+        "pf": 2.07,
+        "return": 7.49,
+        "mdd": 5.56,
+        "sharpe": 4.15,
+        "avg_hold": 14.3
+      }
+    },
+    "avg_return": 5.53,
+    "avg_mdd": 3.72,
+    "avg_sharpe": 3.67,
+    "score": 14.66
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.0,
+      "tp1_atr_mult": 2.0,
+      "max_hold_bars": 30,
+      "trend_filter": true
+    },
+    "details": {
+      "BTC": {
+        "trades": 11,
+        "win_rate": 0.636,
+        "pf": 1.51,
+        "return": 3.21,
+        "mdd": 2.67,
+        "sharpe": 2.71,
+        "avg_hold": 9.9
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.667,
+        "pf": 1.94,
+        "return": 5.88,
+        "mdd": 2.94,
+        "sharpe": 4.14,
+        "avg_hold": 12.0
+      },
+      "SOL": {
+        "trades": 9,
+        "win_rate": 0.667,
+        "pf": 2.07,
+        "return": 7.49,
+        "mdd": 5.56,
+        "sharpe": 4.15,
+        "avg_hold": 14.3
+      }
+    },
+    "avg_return": 5.53,
+    "avg_mdd": 3.72,
+    "avg_sharpe": 3.67,
+    "score": 14.66
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.0,
+      "tp1_atr_mult": 2.5,
+      "max_hold_bars": 30,
+      "trend_filter": false
+    },
+    "details": {
+      "BTC": {
+        "trades": 10,
+        "win_rate": 0.5,
+        "pf": 1.08,
+        "return": 0.45,
+        "mdd": 3.41,
+        "sharpe": 0.41,
+        "avg_hold": 13.5
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.667,
+        "pf": 2.43,
+        "return": 9.08,
+        "mdd": 2.94,
+        "sharpe": 5.38,
+        "avg_hold": 12.9
+      },
+      "SOL": {
+        "trades": 8,
+        "win_rate": 0.5,
+        "pf": 1.33,
+        "return": 2.52,
+        "mdd": 6.8,
+        "sharpe": 1.38,
+        "avg_hold": 18.2
+      }
+    },
+    "avg_return": 4.02,
+    "avg_mdd": 4.38,
+    "avg_sharpe": 2.39,
+    "score": 9.0
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.0,
+      "tp1_atr_mult": 2.5,
+      "max_hold_bars": 30,
+      "trend_filter": true
+    },
+    "details": {
+      "BTC": {
+        "trades": 10,
+        "win_rate": 0.5,
+        "pf": 1.08,
+        "return": 0.45,
+        "mdd": 3.41,
+        "sharpe": 0.41,
+        "avg_hold": 13.5
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.667,
+        "pf": 2.43,
+        "return": 9.08,
+        "mdd": 2.94,
+        "sharpe": 5.38,
+        "avg_hold": 12.9
+      },
+      "SOL": {
+        "trades": 8,
+        "win_rate": 0.5,
+        "pf": 1.33,
+        "return": 2.52,
+        "mdd": 6.8,
+        "sharpe": 1.38,
+        "avg_hold": 18.2
+      }
+    },
+    "avg_return": 4.02,
+    "avg_mdd": 4.38,
+    "avg_sharpe": 2.39,
+    "score": 9.0
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.5,
+      "tp1_atr_mult": 2.0,
+      "max_hold_bars": 30,
+      "trend_filter": false
+    },
+    "details": {
+      "BTC": {
+        "trades": 11,
+        "win_rate": 0.636,
+        "pf": 1.24,
+        "return": 1.74,
+        "mdd": 3.34,
+        "sharpe": 1.38,
+        "avg_hold": 10.1
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.667,
+        "pf": 1.55,
+        "return": 4.19,
+        "mdd": 3.67,
+        "sharpe": 2.53,
+        "avg_hold": 13.7
+      },
+      "SOL": {
+        "trades": 9,
+        "win_rate": 0.667,
+        "pf": 1.83,
+        "return": 6.47,
+        "mdd": 6.93,
+        "sharpe": 3.13,
+        "avg_hold": 16.3
+      }
+    },
+    "avg_return": 4.13,
+    "avg_mdd": 4.65,
+    "avg_sharpe": 2.35,
+    "score": 8.85
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.5,
+      "tp1_atr_mult": 2.0,
+      "max_hold_bars": 30,
+      "trend_filter": true
+    },
+    "details": {
+      "BTC": {
+        "trades": 11,
+        "win_rate": 0.636,
+        "pf": 1.24,
+        "return": 1.74,
+        "mdd": 3.34,
+        "sharpe": 1.38,
+        "avg_hold": 10.1
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.667,
+        "pf": 1.55,
+        "return": 4.19,
+        "mdd": 3.67,
+        "sharpe": 2.53,
+        "avg_hold": 13.7
+      },
+      "SOL": {
+        "trades": 9,
+        "win_rate": 0.667,
+        "pf": 1.83,
+        "return": 6.47,
+        "mdd": 6.93,
+        "sharpe": 3.13,
+        "avg_hold": 16.3
+      }
+    },
+    "avg_return": 4.13,
+    "avg_mdd": 4.65,
+    "avg_sharpe": 2.35,
+    "score": 8.85
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.0,
+      "tp1_atr_mult": 2.0,
+      "max_hold_bars": 20,
+      "trend_filter": false
+    },
+    "details": {
+      "BTC": {
+        "trades": 11,
+        "win_rate": 0.727,
+        "pf": 1.87,
+        "return": 4.86,
+        "mdd": 2.67,
+        "sharpe": 4.54,
+        "avg_hold": 8.1
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.556,
+        "pf": 1.46,
+        "return": 3.0,
+        "mdd": 2.94,
+        "sharpe": 2.31,
+        "avg_hold": 11.4
+      },
+      "SOL": {
+        "trades": 9,
+        "win_rate": 0.444,
+        "pf": 1.07,
+        "return": 0.39,
+        "mdd": 5.63,
+        "sharpe": 0.39,
+        "avg_hold": 11.7
+      }
+    },
+    "avg_return": 2.75,
+    "avg_mdd": 3.75,
+    "avg_sharpe": 2.41,
+    "score": 8.12
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.0,
+      "tp1_atr_mult": 2.0,
+      "max_hold_bars": 20,
+      "trend_filter": true
+    },
+    "details": {
+      "BTC": {
+        "trades": 11,
+        "win_rate": 0.727,
+        "pf": 1.87,
+        "return": 4.86,
+        "mdd": 2.67,
+        "sharpe": 4.54,
+        "avg_hold": 8.1
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.556,
+        "pf": 1.46,
+        "return": 3.0,
+        "mdd": 2.94,
+        "sharpe": 2.31,
+        "avg_hold": 11.4
+      },
+      "SOL": {
+        "trades": 9,
+        "win_rate": 0.444,
+        "pf": 1.07,
+        "return": 0.39,
+        "mdd": 5.63,
+        "sharpe": 0.39,
+        "avg_hold": 11.7
+      }
+    },
+    "avg_return": 2.75,
+    "avg_mdd": 3.75,
+    "avg_sharpe": 2.41,
+    "score": 8.12
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.0,
+      "tp1_atr_mult": 3.0,
+      "max_hold_bars": 30,
+      "trend_filter": false
+    },
+    "details": {
+      "BTC": {
+        "trades": 10,
+        "win_rate": 0.5,
+        "pf": 1.29,
+        "return": 2.07,
+        "mdd": 3.41,
+        "sharpe": 1.27,
+        "avg_hold": 15.6
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.444,
+        "pf": 1.71,
+        "return": 5.34,
+        "mdd": 4.73,
+        "sharpe": 2.68,
+        "avg_hold": 15.9
+      },
+      "SOL": {
+        "trades": 8,
+        "win_rate": 0.5,
+        "pf": 1.31,
+        "return": 2.36,
+        "mdd": 6.8,
+        "sharpe": 1.26,
+        "avg_hold": 18.5
+      }
+    },
+    "avg_return": 3.26,
+    "avg_mdd": 4.98,
+    "avg_sharpe": 1.74,
+    "score": 5.98
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.0,
+      "tp1_atr_mult": 3.0,
+      "max_hold_bars": 30,
+      "trend_filter": true
+    },
+    "details": {
+      "BTC": {
+        "trades": 10,
+        "win_rate": 0.5,
+        "pf": 1.29,
+        "return": 2.07,
+        "mdd": 3.41,
+        "sharpe": 1.27,
+        "avg_hold": 15.6
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.444,
+        "pf": 1.71,
+        "return": 5.34,
+        "mdd": 4.73,
+        "sharpe": 2.68,
+        "avg_hold": 15.9
+      },
+      "SOL": {
+        "trades": 8,
+        "win_rate": 0.5,
+        "pf": 1.31,
+        "return": 2.36,
+        "mdd": 6.8,
+        "sharpe": 1.26,
+        "avg_hold": 18.5
+      }
+    },
+    "avg_return": 3.26,
+    "avg_mdd": 4.98,
+    "avg_sharpe": 1.74,
+    "score": 5.98
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.0,
+      "tp1_atr_mult": 2.5,
+      "max_hold_bars": 20,
+      "trend_filter": false
+    },
+    "details": {
+      "BTC": {
+        "trades": 10,
+        "win_rate": 0.6,
+        "pf": 1.27,
+        "return": 1.76,
+        "mdd": 2.67,
+        "sharpe": 1.43,
+        "avg_hold": 11.4
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.556,
+        "pf": 1.83,
+        "return": 5.53,
+        "mdd": 2.94,
+        "sharpe": 3.6,
+        "avg_hold": 11.9
+      },
+      "SOL": {
+        "trades": 8,
+        "win_rate": 0.375,
+        "pf": 0.86,
+        "return": -1.42,
+        "mdd": 5.63,
+        "sharpe": -0.75,
+        "avg_hold": 14.2
+      }
+    },
+    "avg_return": 1.96,
+    "avg_mdd": 3.75,
+    "avg_sharpe": 1.43,
+    "score": 4.36
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.0,
+      "tp1_atr_mult": 2.5,
+      "max_hold_bars": 20,
+      "trend_filter": true
+    },
+    "details": {
+      "BTC": {
+        "trades": 10,
+        "win_rate": 0.6,
+        "pf": 1.27,
+        "return": 1.76,
+        "mdd": 2.67,
+        "sharpe": 1.43,
+        "avg_hold": 11.4
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.556,
+        "pf": 1.83,
+        "return": 5.53,
+        "mdd": 2.94,
+        "sharpe": 3.6,
+        "avg_hold": 11.9
+      },
+      "SOL": {
+        "trades": 8,
+        "win_rate": 0.375,
+        "pf": 0.86,
+        "return": -1.42,
+        "mdd": 5.63,
+        "sharpe": -0.75,
+        "avg_hold": 14.2
+      }
+    },
+    "avg_return": 1.96,
+    "avg_mdd": 3.75,
+    "avg_sharpe": 1.43,
+    "score": 4.36
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.0,
+      "tp1_atr_mult": 2.0,
+      "max_hold_bars": 15,
+      "trend_filter": false
+    },
+    "details": {
+      "BTC": {
+        "trades": 11,
+        "win_rate": 0.636,
+        "pf": 1.74,
+        "return": 4.08,
+        "mdd": 2.7,
+        "sharpe": 4.09,
+        "avg_hold": 7.2
+      },
+      "ETH": {
+        "trades": 10,
+        "win_rate": 0.5,
+        "pf": 0.99,
+        "return": -0.22,
+        "mdd": 3.96,
+        "sharpe": -0.08,
+        "avg_hold": 9.0
+      },
+      "SOL": {
+        "trades": 9,
+        "win_rate": 0.333,
+        "pf": 1.09,
+        "return": 0.48,
+        "mdd": 6.44,
+        "sharpe": 0.51,
+        "avg_hold": 9.4
+      }
+    },
+    "avg_return": 1.45,
+    "avg_mdd": 4.37,
+    "avg_sharpe": 1.51,
+    "score": 3.78
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.0,
+      "tp1_atr_mult": 2.0,
+      "max_hold_bars": 15,
+      "trend_filter": true
+    },
+    "details": {
+      "BTC": {
+        "trades": 11,
+        "win_rate": 0.636,
+        "pf": 1.74,
+        "return": 4.08,
+        "mdd": 2.7,
+        "sharpe": 4.09,
+        "avg_hold": 7.2
+      },
+      "ETH": {
+        "trades": 10,
+        "win_rate": 0.5,
+        "pf": 0.99,
+        "return": -0.22,
+        "mdd": 3.96,
+        "sharpe": -0.08,
+        "avg_hold": 9.0
+      },
+      "SOL": {
+        "trades": 9,
+        "win_rate": 0.333,
+        "pf": 1.09,
+        "return": 0.48,
+        "mdd": 6.44,
+        "sharpe": 0.51,
+        "avg_hold": 9.4
+      }
+    },
+    "avg_return": 1.45,
+    "avg_mdd": 4.37,
+    "avg_sharpe": 1.51,
+    "score": 3.78
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.5,
+      "tp1_atr_mult": 2.5,
+      "max_hold_bars": 30,
+      "trend_filter": false
+    },
+    "details": {
+      "BTC": {
+        "trades": 10,
+        "win_rate": 0.5,
+        "pf": 0.88,
+        "return": -1.32,
+        "mdd": 4.04,
+        "sharpe": -0.68,
+        "avg_hold": 13.7
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.667,
+        "pf": 1.94,
+        "return": 7.34,
+        "mdd": 3.67,
+        "sharpe": 3.76,
+        "avg_hold": 14.6
+      },
+      "SOL": {
+        "trades": 8,
+        "win_rate": 0.5,
+        "pf": 1.2,
+        "return": 1.55,
+        "mdd": 8.13,
+        "sharpe": 0.8,
+        "avg_hold": 20.5
+      }
+    },
+    "avg_return": 2.52,
+    "avg_mdd": 5.28,
+    "avg_sharpe": 1.29,
+    "score": 3.76
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.5,
+      "tp1_atr_mult": 2.5,
+      "max_hold_bars": 30,
+      "trend_filter": true
+    },
+    "details": {
+      "BTC": {
+        "trades": 10,
+        "win_rate": 0.5,
+        "pf": 0.88,
+        "return": -1.32,
+        "mdd": 4.04,
+        "sharpe": -0.68,
+        "avg_hold": 13.7
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.667,
+        "pf": 1.94,
+        "return": 7.34,
+        "mdd": 3.67,
+        "sharpe": 3.76,
+        "avg_hold": 14.6
+      },
+      "SOL": {
+        "trades": 8,
+        "win_rate": 0.5,
+        "pf": 1.2,
+        "return": 1.55,
+        "mdd": 8.13,
+        "sharpe": 0.8,
+        "avg_hold": 20.5
+      }
+    },
+    "avg_return": 2.52,
+    "avg_mdd": 5.28,
+    "avg_sharpe": 1.29,
+    "score": 3.76
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.5,
+      "tp1_atr_mult": 2.0,
+      "max_hold_bars": 20,
+      "trend_filter": false
+    },
+    "details": {
+      "BTC": {
+        "trades": 11,
+        "win_rate": 0.727,
+        "pf": 1.5,
+        "return": 3.37,
+        "mdd": 3.34,
+        "sharpe": 2.82,
+        "avg_hold": 8.3
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.556,
+        "pf": 1.19,
+        "return": 1.35,
+        "mdd": 3.67,
+        "sharpe": 0.96,
+        "avg_hold": 13.1
+      },
+      "SOL": {
+        "trades": 9,
+        "win_rate": 0.444,
+        "pf": 0.92,
+        "return": -1.06,
+        "mdd": 6.99,
+        "sharpe": -0.43,
+        "avg_hold": 13.0
+      }
+    },
+    "avg_return": 1.22,
+    "avg_mdd": 4.67,
+    "avg_sharpe": 1.12,
+    "score": 2.24
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.5,
+      "tp1_atr_mult": 2.0,
+      "max_hold_bars": 20,
+      "trend_filter": true
+    },
+    "details": {
+      "BTC": {
+        "trades": 11,
+        "win_rate": 0.727,
+        "pf": 1.5,
+        "return": 3.37,
+        "mdd": 3.34,
+        "sharpe": 2.82,
+        "avg_hold": 8.3
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.556,
+        "pf": 1.19,
+        "return": 1.35,
+        "mdd": 3.67,
+        "sharpe": 0.96,
+        "avg_hold": 13.1
+      },
+      "SOL": {
+        "trades": 9,
+        "win_rate": 0.444,
+        "pf": 0.92,
+        "return": -1.06,
+        "mdd": 6.99,
+        "sharpe": -0.43,
+        "avg_hold": 13.0
+      }
+    },
+    "avg_return": 1.22,
+    "avg_mdd": 4.67,
+    "avg_sharpe": 1.12,
+    "score": 2.24
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.5,
+      "tp1_atr_mult": 3.0,
+      "max_hold_bars": 30,
+      "trend_filter": false
+    },
+    "details": {
+      "BTC": {
+        "trades": 10,
+        "win_rate": 0.5,
+        "pf": 1.05,
+        "return": 0.27,
+        "mdd": 4.04,
+        "sharpe": 0.26,
+        "avg_hold": 15.8
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.444,
+        "pf": 1.38,
+        "return": 3.39,
+        "mdd": 5.78,
+        "sharpe": 1.57,
+        "avg_hold": 17.6
+      },
+      "SOL": {
+        "trades": 8,
+        "win_rate": 0.5,
+        "pf": 1.18,
+        "return": 1.38,
+        "mdd": 8.13,
+        "sharpe": 0.72,
+        "avg_hold": 20.8
+      }
+    },
+    "avg_return": 1.68,
+    "avg_mdd": 5.98,
+    "avg_sharpe": 0.85,
+    "score": 1.24
+  },
+  {
+    "params": {
+      "signal_threshold": 3.5,
+      "sl_atr_mult": 2.5,
+      "tp1_atr_mult": 3.0,
+      "max_hold_bars": 30,
+      "trend_filter": true
+    },
+    "details": {
+      "BTC": {
+        "trades": 10,
+        "win_rate": 0.5,
+        "pf": 1.05,
+        "return": 0.27,
+        "mdd": 4.04,
+        "sharpe": 0.26,
+        "avg_hold": 15.8
+      },
+      "ETH": {
+        "trades": 9,
+        "win_rate": 0.444,
+        "pf": 1.38,
+        "return": 3.39,
+        "mdd": 5.78,
+        "sharpe": 1.57,
+        "avg_hold": 17.6
+      },
+      "SOL": {
+        "trades": 8,
+        "win_rate": 0.5,
+        "pf": 1.18,
+        "return": 1.38,
+        "mdd": 8.13,
+        "sharpe": 0.72,
+        "avg_hold": 20.8
+      }
+    },
+    "avg_return": 1.68,
+    "avg_mdd": 5.98,
+    "avg_sharpe": 0.85,
+    "score": 1.24
+  }
+]
